@@ -609,7 +609,7 @@
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
   integrity sha512-VjeHSlIzpv/NyD3N0YuHfXOPDIixcA1q2ZV98wsMqcYlPmv2n3Yb2lYP9XMElnaFVXg5A7YLTeLu6V84uQDjmQ==
   dependencies:
-    camelcase "^5.3.1"
+    camelcase "^5.3.1"F
     find-up "^4.1.0"
     get-package-type "^0.1.0"
     js-yaml "^3.13.1"
